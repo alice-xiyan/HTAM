@@ -1,2 +1,2 @@
 # HTAM
-my assignments and thoughts at HTAM class :)
+Here are my assignments and thoughts at the HTAM class.
