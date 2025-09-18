@@ -1,5 +1,9 @@
 # Sustainable By Design chapter 6
 This short chapter gives us an inspiring insight on why products should be designed and manufactured. It redefined the notion of beauty, which focuses on the inner meaning than external appearance. More importantly, it points out that design is a key component in creating a creative re-engagement with ‘things’. It then makes me come to rethink of our designers' responsibilities in building a sustainable world.
+
+## Link
+The reading pdf is [here](https://github.com/alice-xiyan/HTAM/blob/main/Sustainable%20By%20Design%20chapter%206_%E5%89%AF%E6%9C%AC2.pdf)
+
 ## Notes 
 ```
 " Design can be a key component in this; how we design products, the assumptions we make and the preconceptions we
