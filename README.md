@@ -14,7 +14,7 @@ Here are my assignments and thoughts at the HTAM class.
 <details>
   <summary>What did I do after class</summary>
  
- 1. I read the [Sustainable By Design chapter 6](https://pages.github.com/(https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CSustainable%20By%20Design%20chapter%206.pdf)) and wrote some [notes](https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CReading%20notes.md)  
- 2. I signed up for a Github account and posted my first file by learning [official guidance](https://docs.github.com/zh/get-started)(really helpful and easy to understand)
+ 1. I read the [Sustainable By Design chapter 6](https://pages.github.com/(https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CSustainable%20By%20Design%20chapter%206.pdf)) and wrote some [notes](https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CReading%20notes.md).  
+ 2. I signed up for a Github account and posted my first file by learning [official guidance](https://docs.github.com/zh/get-started) (really helpful and easy to understand) .  
   
 </details>
