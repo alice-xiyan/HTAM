@@ -1,0 +1,2 @@
+# First attempt at 3D scanning
+My first attempt at 3D scanning is using the 3D Scanner App on ipad to capture various everyday objects, such as a **candle**, an **orange**, **bamboo**, **tissue paper**, and **an IKEA wooden horse**. Although I‘ve tried many times, I found it quite challenging to fully capture all the fine details of these items. The scan results always end up warped or distorted because of hand movement or camera shake. 
