@@ -8,3 +8,11 @@ My first attempt at 3D scanning is using the 3D Scanner App on ipad to capture v
 ![20631758437199_ pic](https://github.com/user-attachments/assets/a8e9aaa3-2f31-45e3-9d7f-82483e1b9f14)
 ![20621758437198_ pic](https://github.com/user-attachments/assets/40d014f5-68e3-4c52-bdba-9506f26302e2)
 ![20611758437197_ pic](https://github.com/user-attachments/assets/3ad5be8f-5229-44c5-9943-2c47488f3daa)
+
+After the scanning, I searched for how to improve the results:  
+1. ​​Stabilize Everything:​​ Use a tripod for your iPad to eliminate shake.
+2. Control Lighting:​​ Scan in even, shadow-free light to avoid noise.
+3. ​​Prep Surfaces:​​ Dust matte spray on shiny objects to reduce glare.
+4. Overlap Scans:​​ Move slowly around the object, ensuring each new scan overlaps the previous one by 70-80%.
+5. Post-Process:​​ Use software to clean up the mesh and fill small holes after scanning.
+
