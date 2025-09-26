@@ -29,3 +29,10 @@ Here are my assignments and thoughts at the HTAM class.
 3. Extension of the scanned object: process the 3D scan and create a remix for 3D printing.  
 
 <details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1.  as  
+  2. 1  
+
+<details>
