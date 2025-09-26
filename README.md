@@ -19,3 +19,13 @@ Here are my assignments and thoughts at the HTAM class.
  3. [0921｜First First attempt at 3D scanning](https://github.com/alice-xiyan/HTAM/blob/main/0921%EF%BD%9CFirst%20First%20attempt%20at%203D%20scanning.md)
   
 </details>
+
+## Week 2 - 3D Printing
+<details>
+  <summary>Class Schedule</summary>
+
+1. Lecture on additive manufacturing theory, including materials, strengths and limitations.  
+2. Practice session: calibration tests and printing of small models to understand the basics of the machines.  
+3. Extension of the scanned object: process the 3D scan and create a remix for 3D printing.  
+
+<details>
