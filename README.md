@@ -28,11 +28,11 @@ Here are my assignments and thoughts at the HTAM class.
 2. Practice session: calibration tests and printing of small models to understand the basics of the machines.  
 3. Extension of the scanned object: process the 3D scan and create a remix for 3D printing.  
 
-<details>
+</details>
 <details>
   <summary>What did I do after class</summary>
 
   1.  as  
   2. 1  
 
-<details>
+</details>
