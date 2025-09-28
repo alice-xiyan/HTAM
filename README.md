@@ -32,7 +32,7 @@ Here are my assignments and thoughts at the HTAM class.
 <details>
   <summary>What did I do after class</summary>
 
-  1.  as  
-  2. 1  
+  1. Process the 3D scan result and export it as a printable file
+  2. Try to print the file and failed...
 
 </details>
