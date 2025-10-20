@@ -36,3 +36,52 @@ Here are my assignments and thoughts at the HTAM class.
   2. Try to print the file and failed...
 
 </details>
+
+## Week 3 - Laser Cutting and Mechanical Design
+<details>
+  <summary>Class Schedule</summary>
+
+1. Lecture on subtractive manufacturing with a focus on laser cutting, materials, and joint techniques.
+2. Demonstration and guided practice with the laser cutter.
+3. Design and cut a small mechanical structure (e.g., living hinge, joints) to explore assembly principles.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
+
+## Week 4 - Mid-Autumn Challenge: Individual Assignment
+<details>
+  <summary>Class Schedule</summary>
+
+1. Imagine a fictional product of a speculative future based on Arduino. 
+2. Here is requirements in details.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
+
+## Week 5 - Mid-Autumn Challenge: Individual Assignment
+<details>
+  <summary>Class Schedule</summary>
+
+1. Each group selects one mass-produced product and industrial fabrication process and begins to explore how to re-design it to be more sustainable or “fabbable” within a Fab Lab environment.
+2. Here is requirements in details.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
