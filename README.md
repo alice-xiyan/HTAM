@@ -70,7 +70,7 @@ Here are my assignments and thoughts at the HTAM class.
  
 </details>
 
-## Week 5 - Mid-Autumn Challenge: Individual Assignment
+## Week 5 - From Mass to Personal Production
 <details>
   <summary>Class Schedule</summary>
 
