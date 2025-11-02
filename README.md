@@ -85,3 +85,54 @@ Here are my assignments and thoughts at the HTAM class.
   2. I
  
 </details>
+
+## Week 6 - Topic definition and First Prototypes
+<details>
+  <summary>Class Schedule</summary>
+
+1. Use a Design Challenge approach to understand industrial processes and reinterpret them through alternative settings, FabLab tools and sustainable practices.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
+
+## Week 7 - Consolidation and Public Engagement
+<details>
+  <summary>Class Schedule</summary>
+
+1. Groups work on refining prototypes and preparing visual communication materials.
+2. Preparation of exhibition materials such as posters, visuals, or short videos.
+3. Participation in Maker Faire during the weekend, where students will present their projects and engage with the public.
+4. Deliverables: working prototype or mockup, A3 poster and visual materials, updated documentation, and exhibition-ready projects to bring to Maker Faire.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
+
+## Week 8 - Wrap-up and Reflection
+<details>
+  <summary>Class Schedule</summary>
+
+1. Final group presentations (10 minutes per group) to summarize research, design process, and outcomes.
+2. Collective feedback and reflection session to evaluate both technical and experiential learning.
+3. Reassembly of the exhibition at the College of Design and Innovation for internal display.
+4. Deliverables: complete GitHub repository (open-source ready) and final presentation materials.
+
+</details>
+<details>
+  <summary>What did I do after class</summary>
+
+  1. I
+  2. I
+ 
+</details>
