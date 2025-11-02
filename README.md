@@ -47,10 +47,9 @@ Here are my assignments and thoughts at the HTAM class.
 
 </details>
 <details>
-  <summary>What did I do after class</summary>
+  <summary>What did I in class</summary>
 
-  1. I
-  2. I
+  1. We made [Kerf testing](https://github.com/alice-xiyan/HTAM/blob/main/0929%EF%BD%9CA%20Kerf%20Testing.md) board in groups.
  
 </details>
 
