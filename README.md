@@ -32,7 +32,7 @@ Here are my assignments and thoughts at the HTAM class.
 <details>
   <summary>What did I do after class</summary>
 
-  1. Process the 3D scan result and export it as a printable file, i named it as "[THE QUEEN'S KNIGHT]([https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9C.wd](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md))"
+  1. Process the 3D scan result and export it as a printable file, i named it as ['THE QUEEN'S KNIGHT']([https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9C.wd](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md))
   2. Using small 3D printer to print it out and here's [the document](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md).
 
 </details>
