@@ -63,6 +63,21 @@ The content will bes divided into 4 chapters:
 
    - The 3d modeling part is down!(temporarily)
 
+ - **Step3: Leasering cutting**
+   - I used laser cutting to slot my acrylic sheets so that the acrylic sheets could fit together with the bumps on the box.
+   - In this process, I learned two very important facts:
+     - Fact 1: Remember to set the right speed and strength according to the material you use and the effect you want to achieve
+     - Fact 2: Because the dpi numbers of Adobe Illustrator and the leaser cutting softerware are different, the size of the sketch will change on the computer, which will need to be adjusted manually.
+
+ - **Step4: 3D print parts, assemble and optimize**
+   - The printing process was smooth, and I learned how to use the bambu x1 printer。
+   - <img width="615" height="552" alt="截屏2025-11-03 20 55 42" src="https://github.com/user-attachments/assets/661c0447-8272-416d-9794-932a713813a5" />
+   
+   - However, after the first printing, I found that the spring was not elastic enough, and when the box was closed, the spring would have a protrusion and could not remain horizontal with the plane.
+   - So I redesigned the spring, added more cut-out parts, rotated it 90 degrees to print so that it can avoid the support problem (very useful advice from teacher!)
+   - <img width="1273" height="878" alt="截屏2025-11-03 21 00 16" src="https://github.com/user-attachments/assets/6b737de9-0a63-4261-9c2c-04c2751dfb5f" />
+
+
 
 
 
