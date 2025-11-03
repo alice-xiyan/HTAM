@@ -16,9 +16,9 @@
 <details>
   <summary>What did I do after class</summary>
  
- 1. I read the [Sustainable By Design chapter 6](https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CSustainable%20By%20Design%20chapter%206.pdf).    
- 2. I signed up for a Github account and posted my first file by learning [official guidance](https://docs.github.com/zh/get-started) (really helpful and easy to understand)  
- 3. [0921｜First First attempt at 3D scanning](https://github.com/alice-xiyan/HTAM/blob/main/0921%EF%BD%9CFirst%20First%20attempt%20at%203D%20scanning.md)
+ 1. I read the [**Sustainable By Design chapter 6**](https://github.com/alice-xiyan/HTAM/blob/main/0916%EF%BD%9CSustainable%20By%20Design%20chapter%206.pdf).    
+ 2. I signed up for a Github account and posted my first file by learning [**official guidance**](https://docs.github.com/zh/get-started) (really helpful and easy to understand)  
+ 3. [**0921｜First First attempt at 3D scanning**](https://github.com/alice-xiyan/HTAM/blob/main/0921%EF%BD%9CFirst%20First%20attempt%20at%203D%20scanning.md)
   
 </details>
 
@@ -34,8 +34,8 @@
 <details>
   <summary>What did I do after class</summary>
 
-  1. Process the 3D scan result and export it as a printable file, i named it as ['THE QUEEN'S KNIGHT'](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md)
-  2. Using small 3D printer to print it out and here's [the document](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md).
+  1. Process the 3D scan result and export it as a printable file, i named it as [**'THE QUEEN'S KNIGHT'**](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md)
+  2. Using small 3D printer to print it out and here's [**the document**](https://github.com/alice-xiyan/HTAM/blob/main/0923%EF%BD%9CHow%20I%20make%20'THE%20QUEEN'S%20KNIGHT'.md).
 
 </details>
 
@@ -51,7 +51,7 @@
 <details>
   <summary>What did I in class</summary>
 
-  1. We made [Kerf testing](https://github.com/alice-xiyan/HTAM/blob/main/0929%EF%BD%9CA%20Kerf%20Testing.md) board in groups.
+  1. We made [**Kerf testing**](https://github.com/alice-xiyan/HTAM/blob/main/0929%EF%BD%9CA%20Kerf%20Testing.md) board in groups.
  
 </details>
 
