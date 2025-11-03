@@ -1,7 +1,7 @@
 # HTAM
-Here are my assignments and thoughts at the HTAM class.   
-You can expand the specific content by pressing **the triangle button** on the front and clicking **the blue font link** to jump to the corresponding details page.  
-Thanks for supporting!
+- Here are my assignments and thoughts at the HTAM class.   
+- You can expand the specific content by pressing **the triangle button** on the front and clicking **the blue font link** to jump to the corresponding details page.  
+- Thanks for supporting!
 
 ## Week 1 - Introduction and First Exploration
 <details>
