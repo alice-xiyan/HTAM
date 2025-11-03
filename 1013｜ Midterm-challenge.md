@@ -22,11 +22,12 @@ The content will bes divided into 4 chapters:
  - Transparent panels made of **acrylic** allow you to observe real-time changes in the data on the screen while also providing protection.
 
 ## 04 What did I do?  
- - Here are my  technical files:
+ - Here are my technical files⬇️:
    1. 3d model of [**the pla box**](https://github.com/alice-xiyan/HTAM/blob/main/arduino_box.stl) and [**the spring**](https://github.com/alice-xiyan/HTAM/blob/main/spring.3mf)
    2. Leaser cutting file of [**the acrylic board**](https://github.com/alice-xiyan/HTAM/blob/main/leaser%20cutting.svg)
    3. 3d model of [**the Arduino and screen holder**](https://github.com/alice-xiyan/HTAM/blob/main/holder.3mf)
-   
- - 
+
+     
+ - Here is the plog of my production process⬇️:
   
 
