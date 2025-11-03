@@ -56,6 +56,10 @@ The content will bes divided into 4 chapters:
 
    - Then, I opened transparent panels on the acrylic board according to the sketch⬇️:
    - <img width="667" height="464" alt="截屏2025-11-03 20 07 38" src="https://github.com/user-attachments/assets/ecab9313-9f89-4ab3-9d53-30f835635bf0" />
+     
+   - Finally, I made the Arduino and screen holder (I later realized that this kind of slender column design has a big problem)⬇️:
+   - <img width="897" height="461" alt="截屏2025-11-03 20 43 03" src="https://github.com/user-attachments/assets/4196a7f3-9131-44c6-9e5e-58a370062471" />
+
 
    - The 3d modeling part is down!(temporarily)
 
