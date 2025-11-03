@@ -40,6 +40,28 @@ The content will bes divided into 4 chapters:
  - **Step1: drawing a sketch**
    - I determined the approximate size and draw a sketch like this⬇️:
    - <img width="652" height="822" alt="截屏2025-11-03 19 56 59" src="https://github.com/user-attachments/assets/2a94d88c-583d-4a50-9e1a-561d54c0e9ec" />
+     
+ - **Step2: 3D modeling**
+   - I first built a rectangular box with hinges⬇️:
+   - <img width="664" height="463" alt="截屏2025-11-03 20 05 59" src="https://github.com/user-attachments/assets/9bfd4892-1080-4237-b69c-727523460f27" />
+
+   - Then I added the spring switch part (this part is very difficult, I debugged it for a long time by watching this [tutorial video](https://www.bilibili.com/video/BV1FdYVeUEHD/?spm_id_from=333.337.search-card.all.click&vd_source=6616351be640f616ca5221f0eabd5609))⬇️:
+   - <img width="665" height="461" alt="截屏2025-11-03 20 06 35" src="https://github.com/user-attachments/assets/bdd24a87-9f11-4b9b-8bf2-574c2e657e07" />
+   - <img width="666" height="463" alt="截屏2025-11-03 20 06 17" src="https://github.com/user-attachments/assets/4bfb2687-fcf7-4013-be4b-983901b97b27" />
+
+   - After that, I modified the four corners of the box into smooth rounded corners, using the rotate tool to check if it can close tightly⬇️:
+   - <img width="665" height="458" alt="截屏2025-11-03 20 07 01" src="https://github.com/user-attachments/assets/db36d776-822a-401f-9857-812592773d89" />
+   - <img width="662" height="450" alt="截屏2025-11-03 20 07 16" src="https://github.com/user-attachments/assets/ae1d8b88-79ef-482c-bc99-5d6ee03cb222" />
+
+
+   - Then, I opened transparent panels on the acrylic board according to the sketch⬇️:
+   - <img width="667" height="464" alt="截屏2025-11-03 20 07 38" src="https://github.com/user-attachments/assets/ecab9313-9f89-4ab3-9d53-30f835635bf0" />
+
+   - The 3d modeling part is down!(temporarily)
+
+
+
+
 
 
  
