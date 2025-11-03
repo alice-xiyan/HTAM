@@ -66,8 +66,7 @@
 <details>
   <summary>What did I do after class</summary>
 
-  1. I
-  2. I
+  1. I made the [**'Energy Regulator'**](https://github.com/alice-xiyan/HTAM/blob/main/1013%EF%BD%9C%20Midterm-challenge.md)
  
 </details>
 
