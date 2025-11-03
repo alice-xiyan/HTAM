@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 448.9 259.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .6px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="252.8 48.3 196.1 48.3 196.1 39.8 252.8 39.8 252.8 48.3"/>
+  <polygon class="cls-1" points="71.9 101.6 63.4 101.6 63.4 158.3 71.9 158.3 71.9 101.6"/>
+  <polygon class="cls-1" points="385.5 158.3 377 158.3 377 101.6 385.5 101.6 385.5 158.3"/>
+  <polygon class="cls-1" points="252.8 220.1 196.1 220.1 196.1 211.6 252.8 211.6 252.8 220.1"/>
+  <rect class="cls-1" x="54.9" y="31.3" width="339" height="197.3" rx="12" ry="12"/>
+  <line class="cls-1" x1="224.4" y1="48.3" x2="224.4" y2="211.6"/>
+  <line class="cls-1" x1="163.1" y1="178.9" x2="162.6" y2="179.5"/>
+  <line class="cls-1" x1="71.9" y1="130" x2="377" y2="130"/>
+  <line class="cls-1" x1="224.4" y1="39.8" x2="224.4" y2="31.3"/>
+  <line class="cls-1" x1="63.4" y1="130" x2="54.9" y2="130"/>
+  <line class="cls-1" x1="224.4" y1="220.1" x2="224.4" y2="228.6"/>
+  <line class="cls-1" x1="385.5" y1="130" x2="394" y2="130"/>
+</svg>
