@@ -31,6 +31,17 @@ The content will bes divided into 4 chapters:
    3. 3d model of [**the Arduino and screen holder**](https://github.com/alice-xiyan/HTAM/blob/main/holder.3mf)
 
      
- - Here is the plog of my production process⬇️:
+ - Making this box mainly includes four steps, which are⬇️:
+   - Step1: drawing a sketch
+   - Step2: 3D modeling
+   - Step3: laser cutting
+   - Step4: 3D print parts, assemble and optimize
+  
+ - **Step1: drawing a sketch**
+   - I determined the approximate size and draw a sketch like this⬇️:
+   - <img width="652" height="822" alt="截屏2025-11-03 19 56 59" src="https://github.com/user-attachments/assets/2a94d88c-583d-4a50-9e1a-561d54c0e9ec" />
+
+
+ 
   
 
