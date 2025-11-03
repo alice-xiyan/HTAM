@@ -3,7 +3,8 @@ The content will bes divided into 4 chapters:
 -  01 How it looks like?
 -  02 Why I made this product?
 -  03 How it works?
--  04 What did I do?  
+-  04 What did I do?
+-  05 My reflection
 
 ## 01 How it looks like?  
  - My product is mainly composed of five parts: PLA box, acrylic board, spring, hinge, and an Arduino and screen holder⬇️:  
@@ -77,8 +78,17 @@ The content will bes divided into 4 chapters:
    - So I redesigned the spring, added more cut-out parts, rotated it 90 degrees to print so that it can avoid the support problem (very useful advice from teacher!)
    - <img width="1273" height="878" alt="截屏2025-11-03 21 00 16" src="https://github.com/user-attachments/assets/6b737de9-0a63-4261-9c2c-04c2751dfb5f" />
 
+**_Then, after assembly, the whole process of production ends here!_**  
+**_Congrats!!_**  ヾ(@^▽^@)ノ   
 
-
+## 05 My reflection
+ - Here are some points that can be improved next time:
+   - Do not 3D print thin and small pillars, as this structure will be very fragile. I should thicken the bottom of the pillars or adopt another fixing method
+   - When I fit the acrylic sheet with the box, I should do a test first to make sure the size is just right. Since I have been dealing with the problem of inconsistent sketch size, the acrylic board does not stick very well in the end.
+   - My arduino board is not perfectly aligned to the pane.
+  
+ - In conclusion:
+   - I think this was a very meaningful practical assignment, and I greatly improved my ability to make prototypes through this midterm project, which was very helpful for me, and I learned a lot about modeling and 3D printing! ：）
 
 
 
