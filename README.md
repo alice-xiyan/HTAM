@@ -79,10 +79,10 @@
 
 </details>
 <details>
-  <summary>What did I do after class</summary>
+  <summary>What did I in class</summary>
 
-  1. I
-  2. I
+  1. My team and I formed the Tralalero-Tralala team and chose the injection molding process as our research object.This is our [**presentation PPT**](https://github.com/alice-xiyan/HTAM/blob/main/1021%EF%BD%9CInjection%20Modeling%20PPT.pdf)  
+  2. Since it is a four week project, you can also get full project information on our group github page: [**Tralalero-Tralala**](https://github.com/Tralalero-Tralala)  
  
 </details>
 
@@ -96,8 +96,9 @@
 <details>
   <summary>What did I do after class</summary>
 
-  1. I
-  2. I
+  1. Get full project information on our group github page: [**Tralalero-Tralala**](https://github.com/Tralalero-Tralala)  
+ 
+</details>
  
 </details>
 
@@ -114,8 +115,7 @@
 <details>
   <summary>What did I do after class</summary>
 
-  1. I
-  2. I
+  1. Get full project information on our group github page: [**Tralalero-Tralala**](https://github.com/Tralalero-Tralala)    
  
 </details>
 
@@ -132,7 +132,6 @@
 <details>
   <summary>What did I do after class</summary>
 
-  1. I
-  2. I
+  1. Get full project information on our group github page: [**Tralalero-Tralala**](https://github.com/Tralalero-Tralala)   
  
 </details>
