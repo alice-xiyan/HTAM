@@ -4,7 +4,9 @@ The scanning tool I've used is a software called **3D Scanner** that can work on
 <img width="247" height="61" alt="截屏2025-11-09 11 33 26" src="https://github.com/user-attachments/assets/11078350-61eb-4e31-b756-160cef87e444" />  
 
 ## Scanned items
-My scanned items contain a **candle**, an **orange**, a pot of **bamboo**, a **tissue paper**, and an **IKEA wooden horse**. 
+My scanned items contain a **candle**, an **orange**, a pot of **bamboo**, a **tissue paper**, and an **IKEA wooden horse**. ⬇️:  
+<img width="809" height="730" alt="截屏2025-11-09 11 55 03" src="https://github.com/user-attachments/assets/8101c943-2675-4901-9722-e0f396f12852" />
+
 
 ## Scan results and reflections  
 Although I‘ve tried many times, I found it quite challenging to fully capture all the fine details of these items. The scan results always end up warped or distorted because of hand movement or camera shake：  
