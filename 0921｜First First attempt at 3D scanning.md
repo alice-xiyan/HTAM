@@ -1,5 +1,14 @@
 # First attempt at 3D scanning
-My first attempt at 3D scanning is using the 3D Scanner App on ipad to capture various everyday objects, such as a **candle**, an **orange**, **bamboo**, **tissue paper**, and **an IKEA wooden horse**. Although I‘ve tried many times, I found it quite challenging to fully capture all the fine details of these items. The scan results always end up warped or distorted because of hand movement or camera shake. 
+## The scanning tool used。
+The scanning tool I've used is a software called **3D Scanner** that can work on the ipad. The principle of this software is to use **a LiDAR scanner**, which calculates distance and depth by emitting a laser and measuring the time it reflects back, thereby generating point cloud data and ultimately building **3D Scanner**⬇️:  
+<img width="247" height="61" alt="截屏2025-11-09 11 33 26" src="https://github.com/user-attachments/assets/11078350-61eb-4e31-b756-160cef87e444" />  
+
+## Scanned items
+My scanned items contain a **candle**, an **orange**, a pot of **bamboo**, a **tissue paper**, and an **IKEA wooden horse**. 
+
+## Scan results and reflections  
+Although I‘ve tried many times, I found it quite challenging to fully capture all the fine details of these items. The scan results always end up warped or distorted because of hand movement or camera shake：  
+Here are some photos of my scanning results⬇️:  
 ![20681758437204_ pic](https://github.com/user-attachments/assets/f9620307-38c7-4bda-89eb-8b816a2239a0)
 ![20671758437203_ pic](https://github.com/user-attachments/assets/dc52aa01-c3b4-4561-9ad8-af0b89f6c65a)
 ![20661758437202_ pic](https://github.com/user-attachments/assets/6bfb0c7a-00e5-4a19-9c02-d5639de70120)
@@ -9,7 +18,7 @@ My first attempt at 3D scanning is using the 3D Scanner App on ipad to capture v
 ![20621758437198_ pic](https://github.com/user-attachments/assets/40d014f5-68e3-4c52-bdba-9506f26302e2)
 ![20611758437197_ pic](https://github.com/user-attachments/assets/3ad5be8f-5229-44c5-9943-2c47488f3daa)
 
-After the scanning, I searched for how to improve the results:  
+**After the scanning, I searched for how to improve the results**:  
 1. ​​Stabilize Everything:​​ Use a tripod for your iPad to eliminate shake.
 2. Control Lighting:​​ Scan in even, shadow-free light to avoid noise.
 3. ​​Prep Surfaces:​​ Dust matte spray on shiny objects to reduce glare.
